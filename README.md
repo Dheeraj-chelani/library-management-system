@@ -4,23 +4,23 @@ A Library Management System developed in C++ using Object-Oriented Programming (
 
 Features :-
 
-Add and manage books
-Search books
-Issue and return books
-Display available books
-Menu-driven interface
+1. Add and manage books
+2. Search books
+3. Issue and return books
+4. Display available books
+5. Menu-driven interface
 
 
 OOP Concepts Used :-
 
-Classes & Objects
-Encapsulation
-Inheritance
-Polymorphism
-Abstraction
+1. Classes & Objects
+2. Encapsulation
+3. Inheritance
+4. Polymorphism
+5. Abstraction
 
 Technologies :-
 
-C++
-OOP
+C++ ,
+OOP ,
 STL
